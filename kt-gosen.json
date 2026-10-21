@@ -1,6 +1,7 @@
 {
  "work": "後撰和歌集",
  "work_id": "kt-gosen",
+ "repo": "kumoi-no-fumigura/gosen-wakashu",
  "yomi": "ごせんわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -17133,6 +17134,5 @@
    "text": "こふるまに年のくれなば亡人の別やいとゞ遠くなりなむ",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/gosen-wakashu"
+ ]
 }
